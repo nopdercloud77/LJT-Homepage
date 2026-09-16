@@ -7,9 +7,9 @@ excerpt: 'Investigating the universal truthfulness hyperplane inside large langu
 date: 2024-11-01
 venue: 'EMNLP 2024'
 paperurl: ''
-citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; <i>Proceedings of EMNLP 2024</i>.'
+citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; <i>EMNLP 2024</i>.'
 ---
 
-**Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *On the Universal Truthfulness Hyperplane Inside LLMs.* Findings of the Association for Computational Linguistics: EMNLP 2024.
+**Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *On the Universal Truthfulness Hyperplane Inside LLMs.* EMNLP 2024.
 
 Code is available in the GitHub repository Universal_Truthfulness_Hyperplane.
